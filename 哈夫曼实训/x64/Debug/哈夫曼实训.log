@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(73,11): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(73,11): message :  请考虑在格式字符串中使用“%lld”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(73,11): message :  请考虑在格式字符串中使用“%Id”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(73,11): message :  请考虑在格式字符串中使用“%I64d”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(60,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(66,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(95,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(261,22): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(290,23): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(298,9): warning C4778:  “printf”: 格式字符串“%\n”未终止
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(248,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(254,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(255,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(277,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(359,23): warning C4267:  “=”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(375,24): warning C4267:  “=”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(393,23): warning C4267:  “=”: 从“size_t”转换到“long”，可能丢失数据
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(399,9): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(399,9): message :  请考虑在格式字符串中使用“%lld”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(399,9): message :  请考虑在格式字符串中使用“%Id”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(399,9): message :  请考虑在格式字符串中使用“%I64d”
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(319,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message :  参见“scanf”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(321,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(341,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(342,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message :  参见“strcat”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(343,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :  参见“fopen”的声明
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(315,12): warning C4101:  “k”: 未引用的局部变量
+C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\哈夫曼实训\main.cpp(317,7): warning C4101:  “str”: 未引用的局部变量
+  哈夫曼实训.vcxproj -> C:\Users\易家城\Desktop\Huffman-master\哈夫曼实训（VS）\x64\Debug\哈夫曼实训.exe

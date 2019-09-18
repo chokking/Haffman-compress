@@ -1,0 +1,36 @@
+﻿  main.cpp
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(67): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(75): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(75): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(75): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(249): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(255): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(278): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(299): warning C4778: “printf”: 格式字符串“%\n”未终止
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(320): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(322): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(342): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(343): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(344): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(400): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
+  c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(400): note: 请考虑在格式字符串中使用“%lld”
+  c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(400): note: 请考虑在格式字符串中使用“%I64d”
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(316): warning C4101: “k”: 未引用的局部变量
+c:\users\asus\desktop\哈夫曼实训（vs）\哈夫曼实训\main.cpp(318): warning C4101: “str”: 未引用的局部变量
+  哈夫曼实训.vcxproj -> C:\Users\ASUS\Desktop\哈夫曼实训（VS）\Debug\哈夫曼实训.exe
+  哈夫曼实训.vcxproj -> C:\Users\ASUS\Desktop\哈夫曼实训（VS）\Debug\哈夫曼实训.pdb (Full PDB)
